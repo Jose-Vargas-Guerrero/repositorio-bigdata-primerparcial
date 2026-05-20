@@ -1,4 +1,4 @@
-# Granja Avícola
+# Granja Avícola caso
 
 ### ¿Qué datos genera? 
 La granja guarda información de los **lotes de huevos** que produce para llevar un control estadístico de las operaciones. También registran todas las acciones de **desinfección y mantenimiento** de la granja y, finalmente, llevan un **control clínico de las aves** para evitar enfermedades y que estas se extiendan.
