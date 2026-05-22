@@ -1,0 +1,22 @@
+# Granja Avícola caso
+
+### ¿Qué datos genera? 
+La granja guarda información de los **lotes de huevos** que produce para llevar un control estadístico de las operaciones. También registran todas las acciones de **desinfección y mantenimiento** de la granja y, finalmente, llevan un **control clínico de las aves** para evitar enfermedades y que estas se extiendan.
+
+Esto lo hacen de forma regular ya que quieren mantener un estándar de calidad, lo que a la larga genera un gran volumen de información, almacenando y analizando datos de manera frecuente.
+
+### ¿Quién los usa?
+* **Alta gerencia:** Tienen acceso a todos los datos mediante *dashboards* para obtener una visión general de cómo van las operaciones.
+* **Veterinarios:** Tienen acceso directo a los datos médicos que ellos mismos registran para realizar sus análisis clínicos.
+
+### ¿Qué problema resuelve?
+Para la granja avícola es vital contar con esta información para mantener siempre un **alto estándar de calidad**. El análisis de estos datos sirve como guía para monitorear el estado de las operaciones y tomar decisiones basadas en datos si se presenta algún inconveniente o baja en la calidad.
+
+### ¿Por qué no bastaría Excel? 
+Excel no sería suficiente por las siguientes razones:
+
+1.  **Potencial de crecimiento:** Al ser una granja con un alto potencial de expansión, se requiere una infraestructura más sólida, escalable y acorde a su tamaño.
+2.  **Volumen de datos:** A largo plazo, el volumen de información almacenada será masivo.
+3.  **Variedad de fuentes (Big Data):** La entrada de datos será cada vez más compleja y variada, integrando elementos como:
+    * Lectura de sensores automatizados.
+    * Sistemas de seguridad y monitoreo.
